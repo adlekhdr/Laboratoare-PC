@@ -1,4 +1,5 @@
 ## Lucrarea de laborator nr. 3 la disciplina „Programarea Calculatoarelor”
 
 **Теmа:** Prelucrarea tablourilor bidimensionale în limbajul C
+
 **Scopul lucrării:** Aprofundarea cunoștințelor privind structurile de date de tip tablou bidimensional și dezvoltarea abilităților practice de programare în limbajul C prin implementarea algoritmilor de prelucrare a acestora. Lucrarea urmărește înțelegerea modului de declarare, inițializare și accesare a elementelor tablourilor bidimensionale, precum și aplicarea operațiilor fundamentale de citire, afișare, modificare, căutare și sortare a datelor stocate. De asemenea, scopul include dobândirea deprinderilor de analiză și optimizare a algoritmilor, utilizarea corectă a indicatorilor și a adresării în memorie, pentru a asigura eficiența și claritatea programelor dezvoltate.
